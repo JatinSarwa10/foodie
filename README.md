@@ -1,4 +1,4 @@
-<h1 aling="center> 🍔 Foodie Website - Web Design Page</h1>
+🍔 Foodie Website - Web Design Page
 
 Welcome to the Foodie Website! This project is a beautifully designed and fully responsive web page for food lovers, built using HTML, CSS, and JavaScript. The page showcases a modern and interactive design that highlights delicious food items, restaurant details, and user engagement features.
 
